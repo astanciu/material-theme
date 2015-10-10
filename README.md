@@ -1,7 +1,11 @@
 # Material Theme for Sublime Text 3
 Customized and tweaked 
 
+<<<<<<< HEAD
 ![Final Look](http://i.imgur.com/g710y2Q.png)
+=======
+Please read the [Known Issues](https://github.com/equinusocio/material-theme#known-issues) section before send a new one.
+>>>>>>> equinusocio/master
 
 # Installation
 1. `cd ~/Library/Application Support/Sublime Text 3/Packages`
@@ -51,4 +55,26 @@ Optional tweeks (same file)
 
 [Download](https://dribbble.com/shots/2104476-Material-Theme-for-Sublime-Text-3/attachments/380650) the official Material Theme icon.
 
+<<<<<<< HEAD
+=======
+**IntelliJ IDEA Porting**
+
+You can download the [IntelliJ IDEA Material Theme](https://github.com/ChrisRM/material-theme-jetbrains), theme porting made by @ChrisRM.
+
+**Vim Porting**
+
+You can download the [Vim Hybrid Material](https://github.com/kristijanhusak/vim-hybrid-material), Material Theme porting made by @kristijanhusak.
+
+**Terminal Porting**
+
+You can download [Material Theme Terminal](https://gist.github.com/mvaneijgen/4c56701215847dd5ddcf), Material Theme porting made by @mvaneijgen
+
+**Default Color Palette**
+
+![Color Palette](http://i.imgur.com/zyIK71j.jpg)
+
+
+## Thanks
+Thanks for all the [contributors](https://github.com/equinusocio/material-theme/graphs/contributors).
+>>>>>>> equinusocio/master
 
