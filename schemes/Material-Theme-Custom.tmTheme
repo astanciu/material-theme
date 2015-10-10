@@ -33,7 +33,6 @@
 					<key>activeGuide</key><string>#1b2735</string>
 				</dict>
 			</dict>
-
 			<dict>
 				<key>name</key><string>docstring</string>
 				<key>scope</key><string>string.quoted.double.block, string.docstring, string.quoted.single.block</string>
