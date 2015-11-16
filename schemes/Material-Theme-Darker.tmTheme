@@ -74,9 +74,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CDD3DE</string> <!-- text colour -->
+				<string>#CDD3DE</string>
 			</dict>
-		</dict>        
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Punctuation</string>
@@ -242,7 +242,7 @@ keyword.operator, constant.other.color, meta.tag, punctuation.definition.tag, pu
 				<key>foreground</key>
 				<string>#C3E88D</string>
 			</dict>
-		</dict>		
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Boolean</string>
@@ -502,7 +502,7 @@ meta.property-value support.constant.named-color.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#80CBC4</string>
+				<string>#F77669</string>
 			</dict>
 		</dict>
 		<dict>
@@ -751,7 +751,7 @@ meta.property-value support.constant.named-color.css</string>
 				<key>foreground</key>
 				<string>#FFEB95</string>
 			</dict>
-		</dict>     
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>CSS: Property-name</string>
@@ -817,7 +817,7 @@ meta.property-value support.constant.named-color.css</string>
 				<key>foreground</key>
 				<string>#C3E88D</string>
 			</dict>
-		</dict>      
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>CSS: #</string>
@@ -883,6 +883,39 @@ meta.property-value support.constant.named-color.css</string>
 				<key>foreground</key>
 				<string>#7986CB</string>
 			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PHP: html tags</string>
+			<key>scope</key>
+			<string>embedding.php entity.name.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DDDDDD</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GO: function call</string>
+			<key>scope</key>
+			<string>source.go meta.function-call.go</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DDDDDD</string>
+				</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BABEL: Variables and props fix</string>
+			<key>scope</key>
+			<string>meta.group.braces.curly.js meta.property.object.js variable.other.object.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFEB95</string>
+				</dict>
 		</dict>
 	</array>
 	<key>uuid</key>

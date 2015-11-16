@@ -2,10 +2,14 @@ Material Theme for Sublime Text 3
 https://github.com/equinusocio/material-theme
 
 
-Version 1.2.1
+Version 1.9.0
 ********************************************************************************
 
-#### THEME IMPROVEMENTS
+#### UI THEME
 
-	- Removed white inputs and panel from the default theme
-	- New expanded folder icon animation
+	- New contrast mode ( "material_theme_contrast_mode": true )
+	- Minor UI fixes
+
+#### COLOR SCHEME
+
+	- Minor color scheme improvements
